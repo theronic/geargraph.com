@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Geargraph
 
-You can use the [editor on GitHub](https://github.com/theronic/geargraph.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Collect & Discover Awesome Gear for Your Next Trip
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Geargraph is a place for enthusiasts to share their passion in the best equipment: cars, audio production, camping.
 
-### Markdown
+## Questions Geargraph aims to answer:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- I'm climbing Everest. What oxygen mask fits my gas bottle do I need?
+- Car Mods: Which aftermarket spring coils fit my SUV? Where can I buy tem?
+- Which waterproof backpack can withstand the Peruvian jungle? Oh, and do I need to watch out for Malaria?
 
-```markdown
-Syntax highlighted code block
+Geargraph uses advanced machine learning and a community of experts to answer the question, "which gear do I need?"
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theronic/geargraph.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Geargraph: Collect. Discover. Explore.
